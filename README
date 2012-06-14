@@ -1,0 +1,7 @@
+Verhoeff
+By Simon David Pratt
+======================================================================
+A simple implementation of the Verhoeff checksum algorithm in python
+
+This project is licensed under the ISC license.  See Verhoeff.py for
+details.
